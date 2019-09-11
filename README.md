@@ -6,9 +6,13 @@
 ## LEDs und Lüfter in Abhängigkeit der Temperatur schalten
 
 GPIO2 - Lüfter
+
 GPIO14 - Grüne LED
+
 GPIO15 - Gelbe LED
+
 GPIO18 - Rote LED
+
 
 temp_ampel.sh
 ```
